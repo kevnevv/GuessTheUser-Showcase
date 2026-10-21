@@ -54,10 +54,6 @@ Launch the game natively inside Discord voice chat with full support for Co-Op &
 | ![Discord Co-Op Mode](screenshots/discord-activity/coop_mode.png) | ![Discord Compete Mode](screenshots/discord-activity/compete_mode.png) |
 | *Collaborate in voice chat to solve daily server challenges together.* | *Real-time tournament with synchronized countdown timers, scores, and early-skip guards.* |
 
-| Activity Splash & Artwork | Cover Art |
-| :---: | :---: |
-| ![Compete Splash](screenshots/discord-activity/compete_splash.jpg) | ![Activity Cover](screenshots/discord-activity/activity_hero.jpg) |
-
 ---
 
 ## 🎯 Core Gameplay Mechanics
